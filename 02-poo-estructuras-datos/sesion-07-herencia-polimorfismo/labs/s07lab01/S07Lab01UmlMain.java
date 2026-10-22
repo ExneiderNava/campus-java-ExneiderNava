@@ -1,4 +1,3 @@
-package s07lab01;
 
 public class S07Lab01UmlMain {
     public static void main(String[] args) {

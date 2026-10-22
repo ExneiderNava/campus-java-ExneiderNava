@@ -1,4 +1,3 @@
-package s07lab00;
 
 public class Electrodomestico {
     private final String marca;

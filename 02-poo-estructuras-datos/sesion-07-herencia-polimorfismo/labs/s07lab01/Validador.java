@@ -1,4 +1,3 @@
-package s07lab01;
 
 public class Validador {
     public String revisar() {
